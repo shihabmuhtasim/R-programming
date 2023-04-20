@@ -1,4 +1,11 @@
 # R Programming Language Repository
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/R-programming?color=f5f5dc) 
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/R-programming?color=f5f5dc) 
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/R-programming?color=f5f5dc) 
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/R-programming?color=f5f5dc)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/R-programming?color=f5f5dc)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/R-programming?style=social)
+
 
 This repository contains code written in R, a programming language commonly used for statistical computing and data analysis.
 
